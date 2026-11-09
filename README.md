@@ -1,4 +1,4 @@
-<h1 align="center">Daniel</h1>
+<h1 align="center">Salut, moi c'est Daniel 👋</h1>
 
 <p align="center">
   <b>Étudiant ingénieur en cybersécurité</b> · EFREI Paris – Panthéon-Assas (4<sup>e</sup> année)<br/>
